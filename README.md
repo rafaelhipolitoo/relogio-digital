@@ -29,6 +29,23 @@ Relógio Digital utilizando JavaScript
 
 Para acessar o projeto <a href="https://rafaelhipolitoo.github.io/relogio-digital/">clink aqui</a>
 
+## Ou 
+
+    
+    # Clone este repositório
+    $ git clone https://github.com/rafaelhipolitoo/relogio-digital.git
+
+
+    # Entre no diretório
+    $ cd relogio-digital
+
+    # Instale as dependências
+    $ yarn install
+
+    # Inicie o projeto
+    $ yarn start 
+
+
 ## ✔️ Tecnologias Utilizadas
 
 - `HTML5`
