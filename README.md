@@ -1,5 +1,7 @@
 <h1 align="center">Relógio Digital</h1>
 
+![relogio](https://user-images.githubusercontent.com/84509152/158796285-93cb81a5-0b1e-4970-b7a9-855572a8535f.PNG)
+
 ## Índice 
 
 * [Descrição do Projeto](#descrição-do-projeto)
