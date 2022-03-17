@@ -17,9 +17,3 @@ const clock = setInterval (function time () {
     seconds.textContent = sec;
 
 })
-
-var ampm = document.getElementById('ampm')
-    
-    if ('hour' >=12) {
-        document.getElementById('ampm').innertHTML = PM;
-    }
