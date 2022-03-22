@@ -15,24 +15,25 @@ body {
 
 .clock {
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
-    height: 80%;
-    width: 80%;
+    height: auto;
+    
+    max-width: 1200px;
     background: transparent;
     border-radius: 3px;
     box-shadow: 0 8px 10px rgba(0, 0, 0, .5);
 }
 
-.clock div {
+.clock > div {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-left: 20px;
-    /*height: 80%;*/
-    height: 520px;
-   	width: 500px;
+    margin: 50px 25px;
+    height: 500px;
+   	width: 350px;
     background: rgb(5, 20, 30, 1);
     color: #fff;
     border-radius: 35px;
